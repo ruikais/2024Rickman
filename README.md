@@ -1,15 +1,12 @@
 ## About me
 
-Hi, I'm 2024Rickman, and I just start learning programming. Look forward to learning more in Github!!
+:wave: Hi, I'm 2024Rickman:smile:, and I just started learning programming. Look forward to learning more in Github!!
 
-<details>
-<summary>My top languages</summary>
-
+:computer: My top languages
 | Rank | LANGUAGES  |
 |-----:|------------|
 |     1|   Python   |
 |     2|   C++      |
 |     3|   SQL      |
 
-</details>
 
